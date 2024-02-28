@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pngtree-cartoon-fairy-tale-sticker-with-a-girl-and-cat-on-a-png-image_12223746@1x.png",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pngtree-cartoon-fairy-tale-sticker-with-a-girl-and-cat-on-a-png-image_12223746@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pngtree-cartoon-fairy-tale-sticker-with-a-girl-and-cat-on-a-png-image_12223746@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
